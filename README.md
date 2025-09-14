@@ -10,6 +10,7 @@ The AI learns to survive longer and score higher by avoiding collisions.
 ## Demo
 Watch the advanced model below
 
+https://github.com/user-attachments/assets/8209811d-bbd4-4309-ac9c-e926791bdc2e
 
 
 ## Project Setup Instructions
